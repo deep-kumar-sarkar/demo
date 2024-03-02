@@ -1,1 +1,1 @@
-we are in file 1
+checking git merge conflict 
